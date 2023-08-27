@@ -2,6 +2,7 @@
   "name": "firebasetodo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fgrhlm.github.io/viope-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
